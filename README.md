@@ -9,3 +9,4 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vigneshtaja-s&show_icons=true&locale=en" alt="vigneshtaja-s" /></p>
+git rm -r VIGNESHRAJA_S/
